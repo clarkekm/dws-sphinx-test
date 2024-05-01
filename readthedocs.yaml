@@ -6,4 +6,4 @@ build:
     python: "3.10"
 
 sphinx:
-  configuration: dws-sphinx-test/source/conf.py
+  configuration: source/conf.py
