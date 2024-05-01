@@ -14,23 +14,6 @@ release = '0.0.1'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = [
-    'sphinxcontrib.redoc'
-]
-redoc_uri = 'https://unpkg.com/redoc@2.1.3/bundles/redoc.standalone.js'
-
-redoc = [
-    {
-        'name': 'Risk Profiler API',
-        'page': 'api example',
-        'spec': 'riskprofiler.yml',
-        'embed': True,
-        'opts': {
-            'suppress-warnings': True
-        }
-    }
-]
-
 templates_path = ['_templates']
 exclude_patterns = []
 
