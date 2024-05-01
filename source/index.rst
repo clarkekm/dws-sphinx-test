@@ -16,7 +16,8 @@ This is a **test**. This is a *test*.
    :maxdepth: 1
    :caption: Contents:
 
-   usage
+   api standards
+   definition of done
    api reference
    api example
 
