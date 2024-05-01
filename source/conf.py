@@ -17,6 +17,25 @@ release = '0.0.1'
 templates_path = ['_templates']
 exclude_patterns = []
 
+# -- Extenstions ---------------------------------------------------
+
+extensions = [
+    'sphinxcontrib.redoc'
+]
+redoc_uri = 'https://unpkg.com/redoc@2.1.3/bundles/redoc.standalone.js'
+
+redoc = [
+    {
+        'name': 'Risk Profiler API',
+        'page': 'api example',
+        'spec': 'riskprofiler.yml',
+        'embed': True,
+        'opts': {
+            'suppress-warnings': True
+        }
+    }
+]
+
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
