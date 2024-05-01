@@ -24,9 +24,9 @@ extensions = [
 ]
 redoc = [
     {
-        'name': 'Risk Profiler API',
+        'name': 'Git Hub API',
         'page': 'api example',
-        'spec': 'riskprofiler.yml',
+        'spec': 'github.yml',
         'embed': True,
         'opts': {
             'suppress-warnings': True
