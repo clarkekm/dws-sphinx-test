@@ -6,6 +6,6 @@ build:
     python: "3.10"
   jobs:
     post_create_environment:
-      - python -m pip install sphinxawesome_theme
+      - python -m pip install sphinxawesome-theme
 sphinx:
   configuration: source/conf.py
