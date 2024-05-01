@@ -9,3 +9,6 @@ build:
       - python -m pip install sphinxawesome-theme
 sphinx:
   configuration: source/conf.py
+python:
+  install:
+    - requirements: requirements.txt
