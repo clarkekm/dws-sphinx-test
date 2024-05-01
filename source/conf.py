@@ -32,7 +32,7 @@ redoc = [
             'suppress-warnings': True
         }
     },
-        {
+    {
         'name': 'Pet Store API',
         'page': 'api example',
         'spec': 'github.yml',
@@ -40,6 +40,7 @@ redoc = [
         'opts': {
             'suppress-warnings': True
         }
+    }
 ]
 
 # -- Options for HTML output -------------------------------------------------
