@@ -35,7 +35,7 @@ redoc = [
     {
         'name': 'Pet Store API',
         'page': 'api example',
-        'spec': 'github.yml',
+        'spec': 'petstore.yml',
         'embed': True,
         'opts': {
             'suppress-warnings': True
