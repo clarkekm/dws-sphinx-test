@@ -20,10 +20,8 @@ exclude_patterns = []
 # -- Extenstions ---------------------------------------------------
 
 extensions = [
-    'sphinxcontrib-redoc'
+    'sphinxcontrib.redoc'
 ]
-redoc_uri = 'https://unpkg.com/redoc@2.1.3/bundles/redoc.standalone.js'
-
 redoc = [
     {
         'name': 'Risk Profiler API',
