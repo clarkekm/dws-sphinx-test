@@ -1,0 +1,2 @@
+# Defining the exact version will make sure things don't break
+sphinxcontrib-redoc==1.6.0
