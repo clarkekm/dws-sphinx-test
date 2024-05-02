@@ -6,7 +6,7 @@ Overview
 
 
 Development & Release
-***************
+*************************
 
 
 Development
@@ -73,6 +73,6 @@ Support
 
 
 Usage Statistics
--------------
+--------------------
 
 
