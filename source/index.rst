@@ -13,8 +13,9 @@ This is a **test**. This is a *test*.
    This project is under active development.
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Contents:
+   :hidden:
+   :maxdepth: 2
+   :caption: Contents
 
    api standards
    definition of done
@@ -23,9 +24,4 @@ This is a **test**. This is a *test*.
 
 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
