@@ -14,11 +14,12 @@ Resources
 Resources can be a collection or a singleton.
 
 +------------+------------+-----------+
-| Type   | Description  | Examples |
-+============+============+===========+
+| Type       | Description | Examples |
++============+===============================================================================+===================================================+
 | collection | A collection of homogenous resources. MAY contain sub-collection resources.   | `securities`, `models`, `portfolios`, `companies` |
-+------------+------------+-----------+
++------------+-------------------------------------------------------------------------------+---------------------------------------------------+
 | singleton |A singleton resource that points to a specific resource within a collection. Singleton resources are variable parts of the URI path as they are substituted with an actual value when you make an API call. |`security`, `model`, `portfolio`, `company`|
++------------+------------+-----------+
 
 
 When you define relationships between resources, you can create paths (endpoints) to various types of information.
@@ -81,7 +82,8 @@ Documentation Standards
 | body row 3 | Cells may  | - Cells   |
 +------------+ span rows. | - contain |
 | body row 4 |            | - blocks. |
-+------------+------------+-----------+
+
+
 
 |Standard|Example|
 |:----|:-----|
