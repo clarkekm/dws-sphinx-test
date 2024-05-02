@@ -23,7 +23,7 @@ This is a **test**. This is a *test*.
 .. toctree::
    :hidden:
    :maxdepth: 2
-   :caption: Analytics & Calculation Services
+   :caption: Analytics & Calculations
 
    asset allocation
    custom calculations
@@ -31,7 +31,44 @@ This is a **test**. This is a *test*.
    performance reporting
    portfolio analytics
    quick portfolio
-   risk model
+   risk 
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: Client Portfolios
+
+   api reference
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: Custom Data
+
+   api reference
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: Morningstar Data
+
+   api reference
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: Reporting
+
+   api reference
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: User Objects
+
+   api reference
+
+
+   
 
 
 
