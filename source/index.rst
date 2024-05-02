@@ -19,13 +19,11 @@ This is a **test**. This is a *test*.
 
    api standards
    definition of done
-   api reference
-   api example
 
 .. toctree::
    :hidden:
    :maxdepth: 2
-   :caption: Documentation
+   :caption: API Reference
 
    api standards
    definition of done
