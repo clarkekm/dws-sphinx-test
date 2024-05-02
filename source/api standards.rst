@@ -9,22 +9,17 @@ Examples used in the documentation are based on endpoints, resources, and parame
 Resources
 ***********************************
 
-"Resources" refer to the categories or collections of information returned by an API.
-
-* [Overview](#resource-overview-id)
-* [Technical Standards](#resource-tech-standards-id)
-* [Documentation Standards](#resource-docs-standards-id)
-
-
-Overview
---------------------------------------
+"Resources" are the categories or collections of information returned by an API.
 
 Resources can be a collection or a singleton.
 
-|Type|Description|Example|
-|:------|:------|:----|
-|Collection |A collection of homogenous resources. MAY contain sub-collection resources.|`securities`, `models`, `portfolios`, `companies`. |
-|Singleton| A singleton resource that points to a specific resource within a collection. Singleton resources are variable parts of the URI path as they are substituted with an actual value when you make an API call.| `security`, `model`, `portfolio`, `company`.|
++------------+------------+-----------+
+| Type   | Description  | Examples |
++============+============+===========+
+| collection | A collection of homogenous resources. MAY contain sub-collection resources.   | `securities`, `models`, `portfolios`, `companies` |
++------------+------------+-----------+
+| singleton |A singleton resource that points to a specific resource within a collection. Singleton resources are variable parts of the URI path as they are substituted with an actual value when you make an API call. |`security`, `model`, `portfolio`, `company`|
+
 
 When you define relationships between resources, you can create paths (endpoints) to various types of information.
 
