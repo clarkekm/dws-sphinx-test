@@ -23,10 +23,15 @@ This is a **test**. This is a *test*.
 .. toctree::
    :hidden:
    :maxdepth: 2
-   :caption: API Reference
+   :caption: Analytics & Calculation Services
 
-   api reference
-   api example
+   asset allocation
+   custom calculations
+   hypothetical illustrations
+   performance reporting
+   portfolio analytics
+   quick portfolio
+   risk model
 
 
 
