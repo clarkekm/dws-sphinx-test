@@ -1,22 +1,10 @@
 API Standards
 =====================================
 
-Clients integrating a range of Morningstar APIs expect a consistent experience. Common technical and documentation standards enable us to deliver that experience to our end users. 
+Clients integrating a range of Morningstar APIs expect a consistent experience. Common technical and documentation standards enable us to deliver that experience to our end users.:: 
 
->Examples used in the documentation are based on endpoints, resources, and parameters that you will be familiar with from existing Morningstar APIs. Names have been modified where necessary to demonstrate best practice.
+Examples used in the documentation are based on endpoints, resources, and parameters that you will be familiar with from existing Morningstar APIs. Names have been modified where necessary to demonstrate best practice.
 
-* [Resources](#resources-id)
-* [URIs](#uris-id)
-* [Versioning](#versions-id)
-* [Query Strings](#query-id)
-* [HTTP Methods](#http-methods-id)
-* [HTTP Status Codes and Error Messages](#codes-id)
-* [Internationalization and Localization](#international-id)
-* [Content Negotiation](#content-negotiation-id)
-* [Output Format](#output-id)
-* [Tracing and Logging](#tracing-id)
-* [Caching](#caching-id)
-* [Documentation]()
 
 Resources
 ***********************************
